@@ -77,6 +77,9 @@ body {
 #footer {
     background-color: var(--primary-color);
     padding: 1%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 #footer h1 {
