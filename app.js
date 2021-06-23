@@ -9,7 +9,8 @@ function getTranslationURL (text) {
 }
 
 function errorHandler(error) {
-    console.log("error occured", error)
+    console.log("error occured", error);
+    alert(error);
 }
 
 function clickEventHandler() {
